@@ -13,3 +13,6 @@
 
 ## Imagem do projeto
 ![Screenshot da tela inicial do AluraBooks](https://imgur.com/6GsjQvJ.png)
+
+## Link do projeto
+Para ter acesso ao meu projeto [clique aqui](https://pedro-coelho1604.github.io/alurabook/)
